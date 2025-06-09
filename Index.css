@@ -1,0 +1,80 @@
+.navbar {
+  background-color: #28293e;
+}
+
+#box1 {
+  width: 100%;
+  background-color: #28293e;
+}
+.numeric-boxes .col h3 {
+  color: rgba(57, 20, 0, 1);
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 48px;
+}
+.numeric-boxes .col big {
+  color: rgba(57, 20, 0, 1);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.number {
+  color: rgba(57, 20, 0, 1);
+  line-height: 80px;
+  /* letter-spacing: ; */
+  font-size: 72px;
+  font-weight: 800;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: 700;
+  color: rgba(57, 20, 0, 1);
+  padding: 20px;
+}
+
+#portfolio-section,.contact-banner {
+  width: 100%;
+  background-color: rgba(40, 41, 62, 1);
+  color: white;
+}
+
+.card-custom {
+  border: none;
+  overflow: hidden;
+  border-radius: 12px;
+  position: relative;
+  color: white;
+}
+.card-custom img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.badge-custom {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: white;
+  color: black;
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+.card-title {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
