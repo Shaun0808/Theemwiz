@@ -1,7 +1,5 @@
 # Theemwiz
 
-# Theemwiz
-
 **Theemwiz** is a responsive front-end web project built using **HTML**, **CSS**, and **Bootstrap**. This project is currently under development and serves as a UI concept or template. It focuses on delivering clean design and layout structuring for a modern web interface.
 
 ## 🚧 Project Status
